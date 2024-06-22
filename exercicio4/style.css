@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(240, 240, 240);
+    align-items: center;
+    padding: 10px;
+}
+
+.conteiner {
+    background-color: white;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px rgb(185, 182, 182);
+    color: rgb(85, 85, 85);
+    font: normal 14pt Arial;
+}
+.header {
+    background-color: white;
+    text-align: center;
+    width: 420px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px rgb(185, 182, 182);
+    font: bold 15pt Arial;
+    padding: 5px;
+    color: rgb(85, 85, 85);
+}
+.rodape {
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    color: rgb(122, 121, 121);
+}
+
+.msg {
+    margin-bottom: 10px;
+}

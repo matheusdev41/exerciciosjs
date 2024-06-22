@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(235, 235, 235);
+    align-items: center;
+    text-align: center;
+}
+
+.conteiner {
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 4px rgb(156, 156, 156);
+}
+
+.msg {
+    margin-top: 7px;
+    color: black
+}
+
+.rodape {
+    margin-top: 10px;
+    color: rgb(139, 138, 138)
+}

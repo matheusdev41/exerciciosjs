@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    padding: 10px;
+}
+
+.index {
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    box-shadow: 1px 1px 4px black ;
+    width: 350px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.msg {
+    margin: 10px;
+    color: black;
+    border-radius: 5px;
+}

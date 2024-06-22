@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 0;
+    font-family:"poppins",sans-serif ;
+}
+
+body {
+    background-color: rgb(123, 188, 197);
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.index {
+    background-color: white;
+    width: 300px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgb(70, 69, 69);
+}
+.header {
+    text-align: center;
+    color: white
+}
+
+.msg {
+    align-items: center;
+    text-align: center;
+}
+
+.rodape {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    color: white;
+    margin-top: 20px;
+}
